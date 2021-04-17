@@ -1,8 +1,6 @@
-_site
-.sass-cache
+*.gem
+.bundle
 .jekyll-cache
-.jekyll-metadata
-vendor
-.idea/workspace.xml
-.idea/workspace.xml
-.idea/workspace.xml
+.sass-cache
+_site
+Gemfile.lock
