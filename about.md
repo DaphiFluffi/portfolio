@@ -4,7 +4,7 @@ permalink: /about
 permalink_name: /about
 title: About Me
 
-detail_image: assets/theme_logo.svg
+detail_image: assets/daphna.svg
 
 ---
 
