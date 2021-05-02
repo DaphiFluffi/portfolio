@@ -8,8 +8,17 @@ detail_image: assets/theme_logo.svg
 
 ---
 
-# jekyll-shell-theme
+# Profile
 
-**Jekyll Shell Theme** is an open source light-weight customizable jekyll theme for your site! You can use it to spice up your personal profiles, project pages or just about anything!
+I am Daphna, a Computer Science student graduating in September of this year. 
+What makes me special? My ability to find easy solutions for complex problems and my experience in managing 
+international teams. I am interested in expanding my tech skills in every opportunity I get.
 
-No prior web-dev knowledge is required to use the theme to make a website, just follow the instructions in [/read-me](read-me) to set up your web page and start filling it with hackery content! You can see sone features of the theme in [/preview](preview).
+#Education
+###HTW BERLIN- UNIVERSITY OF APPLIED SCIENCES
+International Media and Computer Science | 2018 - 2021
+  * List Item One
+  * [List Item Two](/jekyll-shell-theme)
+  * List Item Three
+- List Item Two
+- List Item Three
