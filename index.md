@@ -15,10 +15,11 @@ What makes me special? My ability to find easy solutions for complex problems an
 international teams. I am interested in expanding my tech skills in every opportunity I get.
 
 # Education
-### HTW BERLIN- UNIVERSITY OF APPLIED SCIENCES
-International Media and Computer Science | 2018 - 2021
-  * List Item One
-  * [List Item Two](/jekyll-shell-theme)
-  * List Item Three
-- List Item Two
-- List Item Three
+### HTW BERLIN - UNIVERSITY OF APPLIED SCIENCES
+International Media and Computer Science Bachelor | 2018 - 2021
+
+### BERLIN INSTITUTE OF TECHNOLOGY
+Preparatory Studies in STEM | 2017 - 2018
+- Relevant Courses
+  * JAVA | C++ | PYTHON | LINEAR ALGEBRA
+  
