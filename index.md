@@ -4,7 +4,7 @@ permalink: /
 permalink_name: /home
 title: Home
 
-detail_image: assets/theme_logo.svg
+detail_image: assets/daphna2.svg
 
 ---
 
